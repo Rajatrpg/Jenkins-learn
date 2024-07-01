@@ -1,6 +1,5 @@
 import java.util.Date;
 
-import Jenkins.Student;
 public class Main{
 
     public static void main(String[] args){

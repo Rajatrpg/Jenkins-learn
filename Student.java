@@ -1,4 +1,3 @@
-package Jenkins;
 
 public class Student {
 
